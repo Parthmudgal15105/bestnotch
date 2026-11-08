@@ -3,6 +3,7 @@
 BestNotch for Mac: your Mac's notch, finally useful.
 
 - Website, purchase and support: https://parthmudgal.com/bestnotch
+- **BestNotch is a paid app (₹299, one-time).** The download needs a license key to run. Buy one at https://parthmudgal.com/bestnotch
 - Downloads: see [Releases](https://github.com/Parthmudgal15105/bestnotch/releases)
 - Bugs and feature requests: [open an issue](https://github.com/Parthmudgal15105/bestnotch/issues) or email bestnotchsupport@gmail.com
 
